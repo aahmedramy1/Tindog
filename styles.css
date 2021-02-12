@@ -160,8 +160,8 @@ p {
 }
 
 @media (max-width: 1028px) {
-  #title {
-    text-align: center !important;
+  #title .container-fluid {
+    text-align: center;
   }
 
   .title-image {
